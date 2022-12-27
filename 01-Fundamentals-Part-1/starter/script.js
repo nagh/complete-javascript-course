@@ -1,5 +1,30 @@
 let js = 'amazing';
-if (js === 'amazing') alert('JavaScript is FUN!');
-
-40 + 8 + 23 - 10;
 console.log(40 + 8 + 23 - 10);
+
+console.log("Jonas");
+console.log(23);
+
+let firstName = "Matilda";
+console.log(firstName);
+console.log(firstName);
+console.log(firstName);
+
+let jonas_matilda = "JM";
+let $function = 27;
+
+let person = 'jonas'
+let PI = 3.14;
+
+let myFirstJob = 'Programmer';
+let myCurrentJob = 'Teacher';
+
+let job1 = 'programmer';
+let job2 = 'teacher';
+
+console.log(myFirstJob)
+
+let value1 = 80;
+let value2 = 90;
+let value3 = value1 + value2;
+value3 = value3 + 15;
+console.log(value3);
